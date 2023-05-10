@@ -61,17 +61,6 @@ var swiper = new Swiper(".portifolio__container", {
      },
 });
 
-/*==================== TESTIMONIAL ====================*/
-
-
-/*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
-
-
-/*==================== CHANGE BACKGROUND HEADER ====================*/
-
-
-/*==================== SHOW SCROLL UP ====================*/
-
 
 /*==================== DARK LIGHT THEME ====================*/
 const themeButton = document.getElementById('theme-button');
